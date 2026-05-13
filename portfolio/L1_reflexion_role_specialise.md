@@ -8,31 +8,30 @@
 
 ## Cas choisi
 
-_(Klarna / GitHub Copilot Enterprise / Morgan Stanley)_
+Morgan Stanley
 
 ## 1. Probleme d'affaires resolu
 
-_(En 2-3 phrases : quel probleme concret l'organisation cherchait-elle a resoudre ?)_
-
+Morgan Stanley cherchait à permettre à ses conseillers financiers d’accéder rapidement à une grande quantité d’informations internes et de documents complexes. Avant l’utilisation de l’IA, la recherche d’informations pertinentes prenait du temps et limitait l’efficacité des conseillers dans leurs interactions avec les clients.
 ## 2. Fonction d'affaires ciblee
 
-_(Service client, developpement logiciel, analyse financiere, etc.)_
+Service client et analyse financiere
 
 ## 3. Role specialise que l'agent orchestre
 
-_(Nommez-le precisement : agent de service client, agent developpeur, agent analyste, etc.)_
+ Agent assistant et analyste aux conseils financier.
 
 ## 4. Valeur creee — quantifiee avec donnees publiques
 
-_(Chiffres concrets issus des sources du cours. Ex. : 700 agents equivalents, 55 % plus rapide, etc.)_
+Selon les données publiques de Morgan Stanley, plus de 98 % des équipes de conseillers utilisent l’assistant IA pour accéder rapidement à la base de connaissances de l’entreprise, incluant les procédures internes, les rapports de recherche et les documents financiers. Cette solution réduit considérablement le temps consacré à la recherche d’information et améliore la rapidité des réponses fournies aux clients.
 
 ## 5. Risque principal et mitigation concrete
 
-_(Quel est le risque le plus important ? Quelle mesure concrete le reduit ?)_
+Le principal risque est la génération d’informations inexactes ou incomplètes pouvant influencer les recommandations faites aux clients. Ce risque est réduit grâce à une supervision humaine, à l’utilisation de sources internes validées et à des contrôles de conformité avant l’utilisation des réponses dans les interactions clients.
 
 ## 6. Condition de succes pour votre organisation
 
-_(Qu'est-ce qui doit etre en place pour que ce deploiement agentique fonctionne ?)_
+Le succès d’un déploiement agentique nécessite des données fiables, une gouvernance claire. Les employés doivent également être formés afin d’utiliser l’outil de manière responsable et efficace.
 
 ---
 
